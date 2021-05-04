@@ -1,0 +1,79 @@
+/*--------------------------------------------------------------
+# About Us
+--------------------------------------------------------------*/
+
+.about-us .content h2 {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 60px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  .about-us .content h3 {
+    font-weight: 500;
+    line-height: 32px;
+    font-size: 24px;
+  }
+  
+  .about-us .content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about-us .content ul li {
+    padding: 10px 0 0 28px;
+    position: relative;
+  }
+  
+  .about-us .content ul i {
+    left: 0;
+    top: 7px;
+    position: absolute;
+    font-size: 20px;
+  color: #62A9C1;
+
+  }
+  
+  .about-us .content p:last-child {
+    margin-bottom: 0;
+  }
+  
+
+  /*--------------------------------------------------------------
+# Features
+--------------------------------------------------------------*/
+.section-title{
+margin-top: 30px;
+}
+.features .content + .content {
+  margin-top: 100px;
+}
+
+.features .content h3 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #62A9C1;
+}
+
+.features .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features .content ul li {
+  padding-bottom: 10px;
+}
+
+.features .content ul i {
+  font-size: 20px;
+  padding-right: 4px;
+  color: #62A9C1;
+}
+
+.features .content p:last-child {
+  margin-bottom: 0;
+}
+
+  
+  
